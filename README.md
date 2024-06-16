@@ -4,7 +4,7 @@ Provides CLI colored output for PHP scripts.
 
 ## How To Use Example
 
-Here's a breakdown of what the script does:
+In a nutshell:
 
 ```php
 <?php
