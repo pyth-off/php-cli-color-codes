@@ -13,6 +13,7 @@ include_once 'Color.php';
 
 echo Color::output("This is my string", Color::FOREGROUND_BLUE, Color::BACKGROUND_BLACK);
 ```
+![Example](one_liner.png)
 
 ### Example Output
 
